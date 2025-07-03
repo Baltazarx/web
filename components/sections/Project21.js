@@ -40,7 +40,7 @@ export default function Project21() {
 
             <section className="tf-section project_2">
                 <div className="overlay">
-                    <img src="/assets/images/backgroup/bg_project.png" alt="" />
+                    <img src="/assets/images/backgroup/bg-slider1.jpg" alt="" />
                 </div>
                 <div className="container w_1690">
                     <div className="row">
