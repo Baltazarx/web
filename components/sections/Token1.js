@@ -8,7 +8,7 @@ export default function Token1() {
 
             <section className="tf-section tf-token">
                 <div className="overlay">
-                    <img src="/assets/images/backgroup/bg_project2.png" alt="" />
+                    <img src="/assets/images/backgroup/bg-slider1.jpg" alt="" />
                 </div>
                 <div className="container">
                     <div className="row">
